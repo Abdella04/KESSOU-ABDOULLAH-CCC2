@@ -1,0 +1,55 @@
+.max_div {
+    display: flex;
+    width: 70%;
+    height: 400px;
+    background-color: aqua;
+    flex-direction: column-reverse;
+
+}
+img {
+    display: flex;
+    width: 100px;
+}
+
+.p1 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex: 1;
+    background-color: aqua;
+    
+}
+
+.p2 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    position: relative;
+    top: 88px;
+    right: 16px;
+
+
+}
+.p3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+
+
+}
+.p4 {
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 86px;
+    right: 16px;
+
+}
+.p5 {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+
+}

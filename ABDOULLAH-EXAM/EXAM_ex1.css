@@ -1,0 +1,20 @@
+    /* #1-5 */
+
+h1{
+    color: red;
+    text-align: center;
+    text-shadow: 10px red;
+
+}
+/* #2 */
+h2{
+    text-decoration: underline;
+}
+/* #3-4 */
+section{
+    color: green;
+}
+p{
+    color: blue;
+    font-style: italic;
+}
